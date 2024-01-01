@@ -10,3 +10,4 @@
 - Improve logging verbosity (2024-5-18 14:35:00)
 - Patch security vulnerability (2024-3-27 11:45:00)
 - Fix edge case in logic (2024-7-14 13:55:00)
+- Add unit tests (2024-1-1 10:65:00)
